@@ -3,7 +3,8 @@
 Aqui é o Lucas! Atualmente estou cursando Ciência da Computação.
 
 Tenho conhecimento em: C, Python, Java, HTML, CSS e JavaScript.
-Qualquer dúvida, entre em contato com o meu email. ~(˘▾˘~)
+
+🤔 Qualquer dúvida, entre em contato com o meu email.
 
 <!--
 **LPrototyper/LPrototyper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
